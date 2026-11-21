@@ -2,7 +2,7 @@
 
 Firmware custom, editor de escritorio y app Android para **Sonicake AMPCUBE**, por [Dokken](https://guitarristas.info/usuarios/dokken7789).
 
-**[Web y descargas](https://ampcube-custom-studio.pages.dev/)** · [Release v2.0](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/tag/v2.0)
+**[Web y descargas](https://ampcube-custom-studio.pages.dev/)** · [Wiki](https://ampcube-custom-studio.pages.dev/wiki.html) · [Release v2.0](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/tag/v2.0)
 
 | | Versión | Descarga |
 |---|---|---|

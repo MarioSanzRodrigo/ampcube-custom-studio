@@ -1,6 +1,6 @@
 # Privacidad
 
-La web de presentación no incorpora formularios, cuentas, publicidad ni analítica propia. Cloudflare, GitHub y Google Fonts (tipografías) pueden procesar los datos técnicos de conexión conforme a sus políticas.
+La web de presentación no incorpora formularios, cuentas, publicidad ni analítica propia. Para mostrar el contador de descargas, tu navegador consulta la API pública de GitHub (recuento de descargas de las releases) y guarda el resultado 10 minutos en su almacenamiento local. Cloudflare, GitHub y Google Fonts (tipografías) pueden procesar los datos técnicos de conexión conforme a sus políticas.
 
 El editor (Windows y Android) funciona en local y no se conecta a Internet. En Windows se abre en una ventana propia de Edge con un perfil separado y un servidor local solo accesible desde el propio equipo. Guarda en el dispositivo los ajustes del editor y el último equipo conectado.
 
