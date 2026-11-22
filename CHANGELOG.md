@@ -1,5 +1,15 @@
 # Cambios
 
+## v2.0.2 · AMPCUBE Custom Studio 1.5
+
+El firmware no cambia: sigue siendo la v2.
+
+- **Pantalla de conexión nueva:** un AMPCUBE animado (el cono respira, los LEDs laten, salen ondas) con solo Conectar y Demo. Mientras conecta muestra «Buscando tu AMPCUBE…» o «Conectando…» y un botón Cancelar. Una sola conexión a la vez.
+- **Conexión mucho más rápida:** el editor se puede usar en cuanto lee el preset actual. Nombres, listas de IR y NAM y ajustes salen de la última conexión y se actualizan en segundo plano («Conectado · actualizando datos…»). Por Bluetooth, en pruebas con un equipo simulado lento: de 14,6 s a 3,0 s.
+- **Cambio de preset fluido:** un preset ya visitado aparece al instante; uno nuevo se atenúa hasta que llega. Con varias pulsaciones seguidas solo se carga el último.
+- **Menos tráfico por Bluetooth:** la relectura completa del preset es cada 10 s y se para mientras cambias de preset.
+- Ya no aparece «El AMPCUBE se ha desconectado» al pulsar Desconectar o Cancelar.
+
 ## v2.0.1 · AMPCUBE Custom Studio 1.4.1
 
 El firmware no cambia: sigue siendo la v2.

@@ -1,14 +1,14 @@
-﻿# AMPCUBE Custom Firmware by Dokken · AMPCUBE Custom Studio
+# AMPCUBE Custom Firmware by Dokken · AMPCUBE Custom Studio
 
 Firmware custom, editor de escritorio y app Android para **Sonicake AMPCUBE**, por [Dokken](https://guitarristas.info/usuarios/dokken7789).
 
-**[Web y descargas](https://ampcube-custom-studio.pages.dev/)** · [Wiki](https://ampcube-custom-studio.pages.dev/wiki.html) · [Release v2.0.1](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/tag/v2.0.1)
+**[Web y descargas](https://ampcube-custom-studio.pages.dev/)** · [Wiki](https://ampcube-custom-studio.pages.dev/wiki.html) · [Release v2.0.2](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/tag/v2.0.2)
 
 | | Versión | Descarga |
 |---|---|---|
-| AMPCUBE Custom Firmware | v2 (base oficial V1.2.3) | [AMPCUBE_V1.2.3_CustomFW_v2.bin](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v2.0.1/AMPCUBE_V1.2.3_CustomFW_v2.bin) |
-| AMPCUBE Custom Studio para Android | 1.4.1 · Android 8+ · Bluetooth o USB OTG | [APK](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v2.0.1/AMPCUBE-Custom-Studio-1.4.1-Android.apk) · [Fuentes](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v2.0.1/AMPCUBE-Custom-Studio-1.4.1-Sources.zip) |
-| AMPCUBE Custom Studio para Windows | 1.4.1 · Windows 10/11 | [Instalador](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v2.0.1/AMPCUBE-Custom-Studio-1.4.1-Setup.exe) |
+| AMPCUBE Custom Firmware | v2 (base oficial V1.2.3) | [AMPCUBE_V1.2.3_CustomFW_v2.bin](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v2.0.2/AMPCUBE_V1.2.3_CustomFW_v2.bin) |
+| AMPCUBE Custom Studio para Android | 1.5 · Android 8+ · Bluetooth o USB OTG | [APK](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v2.0.2/AMPCUBE-Custom-Studio-1.5-Android.apk) · [Fuentes](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v2.0.2/AMPCUBE-Custom-Studio-1.5-Sources.zip) |
+| AMPCUBE Custom Studio para Windows | 1.5 · Windows 10/11 | [Instalador](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v2.0.2/AMPCUBE-Custom-Studio-1.5-Setup.exe) |
 
 ## Firmware
 
