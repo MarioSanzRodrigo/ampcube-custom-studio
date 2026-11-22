@@ -1,5 +1,14 @@
 # Cambios
 
+## v2.0.1 · AMPCUBE Custom Studio 1.4.1
+
+El firmware no cambia: sigue siendo la v2.
+
+- **Modelos nuevos:** los amplis y delays del firmware custom llevan la etiqueta «Custom FW v2» y «Portado de la custom del PocketMaster», en lugar de «AMPCUBE de serie».
+- **NAM + IR:** con el firmware custom, el bloque AMP en modo NAM indica que la IR suena detrás de la captura y ofrece «Encender IR junto al NAM» si el bloque IR está apagado. Ya no aparece como experimental.
+- **Firmware oficial:** el editor explica que con el firmware oficial el NAM sustituye al AMP y a la IR, y no ofrece encender la IR con el NAM.
+- «Acerca de» muestra el nombre y la versión del editor.
+
 ## v2.0 · AMPCUBE Custom Firmware v2 + AMPCUBE Custom Studio 1.4
 
 Primera versión pública.
