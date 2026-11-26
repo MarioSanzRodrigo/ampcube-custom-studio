@@ -4,11 +4,33 @@
 
 El editor web, el lanzador de Windows y la app Android (WebView con puente MIDI por
 USB y Bluetooth LE) se ofrecen bajo GPL-3.0-only. Las fuentes completas, sin claves de
-firma ni rutas locales, van en AMPCUBE-Custom-Studio-1.5-Sources.zip, en la release v2.0.2.
+firma ni rutas locales, van en AMPCUBE-Custom-Studio-3.0-Sources.zip, en la release v4.0.
 
 El conversor de capturas NAM a Clone (nam2clo.js) es código propio. Usa un método de
 ajuste multinivel equivalente al de SonicMaster (MIT). Los modelos .nam son del formato
 de Neural Amp Modeler (MIT); el editor no incluye ningún modelo.
+
+El editor de Windows incluye las bibliotecas de Microsoft Edge WebView2
+(Microsoft.Web.WebView2.Core.dll, Microsoft.Web.WebView2.WinForms.dll y WebView2Loader.dll),
+redistribuibles bajo la licencia de Microsoft incluida como LICENSE-WebView2.txt.
+
+La app Android incluye MediaPipe LLM Inference de Google (com.google.mediapipe:tasks-genai),
+bajo licencia Apache 2.0 (https://www.apache.org/licenses/LICENSE-2.0), para ejecutar la IA
+del Asistente de tono en el móvil.
+
+## IA del Asistente de tono (se descarga aparte, no va en los instaladores)
+
+- Modelos **Qwen 2.5 Instruct** (0,5B y 1,5B) de Alibaba Cloud / equipo Qwen, bajo licencia
+  Apache 2.0. En Android, la versión de LiteRT Community (`litert-community` en Hugging Face);
+  en Windows, la versión GGUF oficial (`Qwen/Qwen2.5-*-Instruct-GGUF`).
+- Motor **llama.cpp** (ggml-org), bajo licencia MIT, versión b12292 para Windows x64 con Vulkan,
+  descargado de su release oficial en GitHub.
+
+El editor comprueba el SHA-256 de cada descarga en Windows antes de usarla.
+
+La pestaña TONE3000 muestra la web pública de tone3000.com. Las capturas que se
+descargan desde ella pertenecen a sus autores y conservan su licencia; el editor no
+incluye ni redistribuye ninguna.
 
 ## AMPCUBE Custom Firmware
 
@@ -25,7 +47,7 @@ oficial con Sonicake Manager.
 
 ## Marcas
 
-SONICAKE, AMPCUBE y Pocket Master son marcas de sus titulares. Se citan para identificar
+SONICAKE, AMPCUBE, Pocket Master y TONE3000 son marcas de sus titulares. Se citan para identificar
 los dispositivos compatibles; no implican patrocinio ni aprobación. Los dibujos de esta
 web son representaciones propias. Los nombres de los modelos son los que usa el propio
 firmware.
