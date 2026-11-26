@@ -1,5 +1,12 @@
 # Cambios
 
+## v4.1 · AMPCUBE Custom Studio 3.1
+
+El firmware no cambia: sigue siendo la v4.
+
+- **Low Cut y High Cut del IR:** los fijas con las perillas, sin valores por defecto. El botón **Apagar filtros** los pone en Off guardando tus valores y **Encender filtros** los devuelve tal cual, para comparar mientras tocas. Si mueves una perilla con los filtros apagados, se vuelven a encender.
+- **IR y NAM:** los huecos vacíos se ven otra vez como una fila normal («vacío») en lugar de un recuadro grande.
+
 ## v4.0 · AMPCUBE Custom Firmware v4 + AMPCUBE Custom Studio 3.0
 
 ### Firmware v4 (base oficial V1.2.3)
