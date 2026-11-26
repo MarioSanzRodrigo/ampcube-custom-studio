@@ -1,5 +1,13 @@
 # Cambios
 
+## v4.2 · AMPCUBE Custom Studio 3.3
+
+El firmware no cambia: sigue siendo la v4.
+
+- **Editor y app en inglés.** El idioma se elige en la pantalla de conexión («English / Español») o en «Acerca de»; por defecto, el del sistema. Si cambias de idioma con el AMPCUBE conectado, el editor avisa antes de reiniciarse y te deja guardar los cambios pendientes.
+- **Asistente de tono en inglés:** entiende descripciones en inglés («modern metal, drop C», «clean funk with compressor», «more mids», «no reverb»…) y la IA escribe su explicación en el idioma elegido.
+- **Aviso de versión nueva:** una vez al día el editor consulta la última release pública en GitHub y, si hay un editor más nuevo, muestra un aviso con el enlace de descarga para Windows o Android. No envía ningún dato. Se desactiva en «Acerca de», donde también está «Buscar actualizaciones ahora».
+
 ## v4.1 · AMPCUBE Custom Studio 3.1
 
 El firmware no cambia: sigue siendo la v4.

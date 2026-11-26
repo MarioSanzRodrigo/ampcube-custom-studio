@@ -2,13 +2,13 @@
 
 Firmware custom, editor de escritorio y app Android para **Sonicake AMPCUBE**, por [Dokken](https://guitarristas.info/usuarios/dokken7789).
 
-**[Web y descargas](https://ampcube-custom-studio.pages.dev/)** · [Wiki](https://ampcube-custom-studio.pages.dev/wiki.html) · [Release v4.1](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/tag/v4.1)
+**[Web y descargas](https://ampcube-custom-studio.pages.dev/)** · [Wiki](https://ampcube-custom-studio.pages.dev/wiki.html) · [Release v4.2](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/tag/v4.2)
 
 | | Versión | Descarga |
 |---|---|---|
-| AMPCUBE Custom Firmware | v4 (base oficial V1.2.3) | [AMPCUBE_V1.2.3_CustomFW_v4.bin](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v4.1/AMPCUBE_V1.2.3_CustomFW_v4.bin) |
-| AMPCUBE Custom Studio para Android | 3.1 · Android 8+ · Bluetooth o USB OTG | [APK](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v4.1/AMPCUBE-Custom-Studio-3.1-Android.apk) · [Fuentes](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v4.1/AMPCUBE-Custom-Studio-3.1-Sources.zip) |
-| AMPCUBE Custom Studio para Windows | 3.1 · Windows 10/11 | [Instalador](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v4.1/AMPCUBE-Custom-Studio-3.1-Setup.exe) |
+| AMPCUBE Custom Firmware | v4 (base oficial V1.2.3) | [AMPCUBE_V1.2.3_CustomFW_v4.bin](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v4.2/AMPCUBE_V1.2.3_CustomFW_v4.bin) |
+| AMPCUBE Custom Studio para Android | 3.3 · Android 8+ · Bluetooth o USB OTG | [APK](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v4.2/AMPCUBE-Custom-Studio-3.3-Android.apk) · [Fuentes](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v4.2/AMPCUBE-Custom-Studio-3.3-Sources.zip) |
+| AMPCUBE Custom Studio para Windows | 3.3 · Windows 10/11 | [Instalador](https://github.com/MarioSanzRodrigo/ampcube-custom-studio/releases/download/v4.2/AMPCUBE-Custom-Studio-3.3-Setup.exe) |
 
 ## Firmware
 
