@@ -4,7 +4,7 @@
 
 El editor web, el lanzador de Windows y la app Android (WebView con puente MIDI por
 USB y Bluetooth LE) se ofrecen bajo GPL-3.0-only. Las fuentes completas, sin claves de
-firma ni rutas locales, van en AMPCUBE-Custom-Studio-3.3-Sources.zip, en la release v4.2.
+firma ni rutas locales, van en AMPCUBE-Custom-Studio-3.4-Sources.zip, en la release v4.3.
 
 El conversor de capturas NAM a Clone (nam2clo.js) es código propio. Usa un método de
 ajuste multinivel equivalente al de SonicMaster (MIT). Los modelos .nam son del formato

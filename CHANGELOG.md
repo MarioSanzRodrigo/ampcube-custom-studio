@@ -1,5 +1,15 @@
 # Cambios
 
+## v4.3 · AMPCUBE Custom Firmware v4.1 + AMPCUBE Custom Studio 3.4
+
+### Firmware v4.1
+- **Arreglo: los NAM 11, 12 y 13 ya se pueden guardar.** En la v4 aparecían, pero si el almacén de capturas se había creado con una versión anterior (10 huecos) el equipo rechazaba guardar en ellos. La v4.1 usa siempre el límite de 13 y conserva los NAM ya guardados.
+
+### AMPCUBE Custom Studio 3.4
+- **Ordenar presets arrastrando:** en la biblioteca de presets de usuario, arrastra el asa ⠿ de un preset a su nueva posición; los de en medio se desplazan una posición. Pide confirmación, muestra el progreso y comprueba cada preset al terminar.
+  - El AMPCUBE no tiene una orden para mover presets: los intermedios se cargan y se guardan en su nueva posición (copia exacta del propio equipo) y el preset movido se reconstruye y solo se guarda si al releerlo es idéntico byte a byte. Esa prueba se hace antes de escribir nada.
+  - Si el preset movido y el de destino tienen distinto tempo (BPM), no se puede mover sin cambiarlo y el editor lo avisa sin tocar nada.
+
 ## v4.2 · AMPCUBE Custom Studio 3.3
 
 El firmware no cambia: sigue siendo la v4.
